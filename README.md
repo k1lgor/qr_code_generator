@@ -10,12 +10,12 @@ for Linux:
 
   chmod +x qr_code_generator
 
-  ./qr_code_generator -u https://google.com
+  ./qr_code_generator -u https://www.google.com
 ```
 
 ```
 for Windows:
   .\venv\Scripts\activate
 
-  python qr_code_generator -u https://google.com
+  python qr_code_generator -u https://www.google.com
 ```

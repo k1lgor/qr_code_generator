@@ -4,18 +4,16 @@
 
 `pip install -r requirements.txt`
 
-```
-for Linux:
-  source .venv/bin/activate
+> for Linux:
 
-  chmod +x qr_code_generator
+`source .venv/bin/activate`
 
-  ./qr_code_generator -u https://www.google.com
-```
+`chmod +x qr_code_generator`
 
-```
-for Windows:
-  .\venv\Scripts\activate
+`./qr_code_generator -u https://www.google.com`
 
-  python qr_code_generator -u https://www.google.com
-```
+> for Windows:
+
+`.\venv\Scripts\activate`
+
+`python qr_code_generator -u https://www.google.com`
